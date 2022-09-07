@@ -1,2 +1,1 @@
-# citysteps
-citySTEPS development
+# citySTEPS demo
