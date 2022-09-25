@@ -8,5 +8,6 @@ contract Award {
     function lottery() public {
       // check the sender has necessary NFTs
       // give award NFT to sender if they win the award
+      // send notification by EPNS
     }
 }
